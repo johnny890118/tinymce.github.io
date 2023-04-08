@@ -1,0 +1,22 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  margin: 15px auto;
+}
+
+button {
+  background-color: #d96194;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #e8a0bf;
+}
+
+body{
+    background-color: #3C3C3C;
+}
